@@ -23,8 +23,8 @@ export default defineConfig({
       },
       includeAssets: ["favicon.ico", "favicon.svg", "apple-touch-icon.png"],
       manifest: {
-        name: "PWA OTP",
-        short_name: "PWA OTP",
+        name: "password.fcic.cc",
+        short_name: "pwd.fcic.cc",
         description: "Easily manage your TOTP codes",
         // TODO: background_color
         theme_color: "#0369a1",
